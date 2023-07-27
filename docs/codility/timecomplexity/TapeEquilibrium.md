@@ -52,4 +52,4 @@ Write an efficient algorithm for the following assumptions:
 
 |  Interface | Solution Class  | Test Class  |
 | :------------ | :------------ | :------------ |
-| [Int](../../../src/main/java/Int.java)  |  [Impl](../../../src/main/java/Impl.java) | [Test](../../../src/test/java/Test.java)  |
+| [TapeEquilibrium](../../../src/main/java/com/iamandu/codechallenger/problems/codility/timecomplexity/TapeEquilibrium.java)  |  [TapeEquilibriumImpl](../../../src/main/java/com/iamandu/codechallenger/solutions/wescley/codility/timecomplexity/TapeEquilibriumImpl.java) | [TapeEquilibriumTest](../../../src/test/java/com/iamandu/codechallenger/solutions/wescley/codility/timecomplexity/TapeEquilibriumTest.java)  |

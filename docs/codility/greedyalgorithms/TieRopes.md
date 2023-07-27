@@ -22,7 +22,7 @@ For example, consider K = 4 and array A such that:
 
 The ropes are shown in the figure below.
 
-![](../../img/codility/005.png)
+![](../../../img/codility/005.png)
 
 We can tie:
 

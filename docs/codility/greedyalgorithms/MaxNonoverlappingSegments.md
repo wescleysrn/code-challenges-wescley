@@ -20,7 +20,7 @@ For example, consider arrays A, B such that:
 
 The segments are shown in the figure below.
 
-![](../../img/codility/004.png)
+![](../../../img/codility/004.png)
 
 The size of a non-overlapping set containing a maximal number of segments is 3. For example, possible sets are {0, 2, 3}, {0, 2, 4}, {1, 2, 3} or {1, 2, 4}. There is no non-overlapping set with four segments.
 

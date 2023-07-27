@@ -22,7 +22,7 @@ For example, given array H containing N = 9 integers:
 
 the function should return 7. The figure shows one possible arrangement of seven blocks.
 
-![](../../img/codility/002.png)
+![](../../../img/codility/002.png)
 
 Write an efficient algorithm for the following assumptions:
 
