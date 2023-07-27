@@ -24,5 +24,5 @@ Write an efficient algorithm for the following assumptions:
 
 |  Interface | Solution Class  | Test Class  |
 | :------------ | :------------ | :------------ |
-| [BinaryGap](../../../src/main/java/com/iamandu/codechallenger/problems/codility/iterations/BinaryGap.java)  |  [BinaryGapImpl](../../../src/main/java/com/iamandu/codechallenger/solutions/wescley/codility/iterations/BinaryGapImpl.java) | [BinaryGapTest](../../../src/main/java/com/iamandu/codechallenger/solutions/wescley/codility/iterations/BinaryGapTest.java)  |
+| [BinaryGap](../../../src/main/java/com/iamandu/codechallenger/problems/codility/iterations/BinaryGap.java)  |  [BinaryGapImpl](../../../src/main/java/com/iamandu/codechallenger/solutions/wescley/codility/iterations/BinaryGapImpl.java) | [BinaryGapTest](../../../src/test/java/com/iamandu/codechallenger/solutions/wescley/codility/iterations/BinaryGapTest.java)  |
 
