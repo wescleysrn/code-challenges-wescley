@@ -36,4 +36,4 @@ Write an efficient algorithm for the following assumptions:
 
 |  Interface | Solution Class  | Test Class  |
 | :------------ | :------------ | :------------ |
-| [Int](../../../src/main/java/Int.java)  |  [Impl](../../../src/main/java/Impl.java) | [Test](../../../src/test/java/Test.java)  |
+| [MinAbsSum](../../../src/main/java/com/iamandu/codechallenger/problems/codility/dynamicprogramming/MinAbsSum.java)  |  [MinAbsSumImpl](../../../src/main/java/com/iamandu/codechallenger/solutions/wescley/codility/dynamicprogramming/MinAbsSumImpl.java) | [MinAbsSumTest](../../../src/test/java/com/iamandu/codechallenger/solutions/wescley/codility/dynamicprogramming/MinAbsSumTest.java)  |

@@ -29,5 +29,5 @@ Write an efficient algorithm for the following assumptions:
 
 |  Interface | Solution Class  | Test Class  |
 | :------------ | :------------ | :------------ |
-| [Int](../../../src/main/java/Int.java)  |  [Impl](../../../src/main/java/Impl.java) | [Test](../../../src/test/java/Test.java)  |
+| [Nesting](../../../src/main/java/com/iamandu/codechallenger/problems/codility/stacksandqueues/Nesting.java)  |  [NestingImpl](../../../src/main/java/com/iamandu/codechallenger/solutions/wescley/codility/stacksandqueues/NestingImpl.java) | [NestingTest](../../../src/test/java/com/iamandu/codechallenger/solutions/wescley/codility/stacksandqueues/NestingTest.java)  |
 

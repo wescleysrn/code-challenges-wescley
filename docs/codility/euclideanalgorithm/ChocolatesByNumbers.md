@@ -34,4 +34,4 @@ Write an efficient algorithm for the following assumptions:
 
 |  Interface | Solution Class  | Test Class  |
 | :------------ | :------------ | :------------ |
-| [Int](../../../src/main/java/Int.java)  |  [Impl](../../../src/main/java/Impl.java) | [Test](../../../src/test/java/Test.java)  |
+| [ChocolatesByNumbers](../../../src/main/java/com/iamandu/codechallenger/problems/codility/euclideanalgorithm/ChocolatesByNumbers.java)  |  [ChocolatesByNumbersImpl](../../../src/main/java/com/iamandu/codechallenger/solutions/wescley/codility/euclideanalgorithm/ChocolatesByNumbersImpl.java) | [ChocolatesByNumbersTest](../../../src/test/java/com/iamandu/codechallenger/solutions/wescley/codility/euclideanalgorithm/ChocolatesByNumbersTest.java)  |

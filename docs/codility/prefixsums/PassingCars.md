@@ -50,4 +50,4 @@ Write an efficient algorithm for the following assumptions:
 
 |  Interface | Solution Class  | Test Class  |
 | :------------ | :------------ | :------------ |
-| [Int](../../../src/main/java/Int.java)  |  [Impl](../../../src/main/java/Impl.java) | [Test](../../../src/test/java/Test.java)  |
+| [PassingCars](../../../src/main/java/com/iamandu/codechallenger/problems/codility/prefixsums/PassingCars.java)  |  [PassingCarsImpl](../../../src/main/java/com/iamandu/codechallenger/solutions/wescley/codility/prefixsums/PassingCarsImpl.java) | [PassingCarsTest](../../../src/test/java/com/iamandu/codechallenger/solutions/wescley/codility/prefixsums/PassingCarsTest.java)  |

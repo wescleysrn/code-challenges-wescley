@@ -39,4 +39,4 @@ Write an efficient algorithm for the following assumptions:
 
 |  Interface | Solution Class  | Test Class  |
 | :------------ | :------------ | :------------ |
-| [Int](../../../src/main/java/Int.java)  |  [Impl](../../../src/main/java/Impl.java) | [Test](../../../src/test/java/Test.java)  |
+| [CommonPrimeDivisors](../../../src/main/java/com/iamandu/codechallenger/problems/codility/euclideanalgorithm/CommonPrimeDivisors.java)  |  [CommonPrimeDivisorsImpl](../../../src/main/java/com/iamandu/codechallenger/solutions/wescley/codility/euclideanalgorithm/CommonPrimeDivisorsImpl.java) | [CommonPrimeDivisorsTest](../../../src/test/java/com/iamandu/codechallenger/solutions/wescley/codility/euclideanalgorithm/CommonPrimeDivisorsTest.java)  |

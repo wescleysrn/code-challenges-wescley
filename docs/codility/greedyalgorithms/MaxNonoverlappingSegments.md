@@ -43,4 +43,4 @@ Write an efficient algorithm for the following assumptions:
 
 |  Interface | Solution Class  | Test Class  |
 | :------------ | :------------ | :------------ |
-| [Int](../../../src/main/java/Int.java)  |  [Impl](../../../src/main/java/Impl.java) | [Test](../../../src/test/java/Test.java)  |
+| [MaxNonoverlappingSegments](../../../src/main/java/com/iamandu/codechallenger/problems/codility/greedyalgorithms/MaxNonoverlappingSegments.java)  |  [MaxNonoverlappingSegmentsImpl](../../../src/main/java/com/iamandu/codechallenger/solutions/wescley/codility/greedyalgorithms/MaxNonoverlappingSegmentsImpl.java) | [MaxNonoverlappingSegmentsTest](../../../src/test/java/com/iamandu/codechallenger/solutions/wescley/codility/greedyalgorithms/MaxNonoverlappingSegmentsTest.java)  |

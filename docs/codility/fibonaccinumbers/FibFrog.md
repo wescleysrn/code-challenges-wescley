@@ -66,4 +66,4 @@ Write an efficient algorithm for the following assumptions:
 
 |  Interface | Solution Class  | Test Class  |
 | :------------ | :------------ | :------------ |
-| [Int](../../../src/main/java/Int.java)  |  [Impl](../../../src/main/java/Impl.java) | [Test](../../../src/test/java/Test.java)  |
+| [FibFrog](../../../src/main/java/com/iamandu/codechallenger/problems/codility/fibonaccinumbers/FibFrog.java)  |  [FibFrogImpl](../../../src/main/java/com/iamandu/codechallenger/solutions/wescley/codility/fibonaccinumbers/FibFrogImpl.java) | [FibFrogTest](../../../src/test/java/com/iamandu/codechallenger/solutions/wescley/codility/fibonaccinumbers/FibFrogTest.java)  |

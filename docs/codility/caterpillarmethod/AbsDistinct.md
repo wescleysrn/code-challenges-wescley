@@ -44,4 +44,4 @@ Write an efficient algorithm for the following assumptions:
 
 |  Interface | Solution Class  | Test Class  |
 | :------------ | :------------ | :------------ |
-| [Int](../../../src/main/java/Int.java)  |  [Impl](../../../src/main/java/Impl.java) | [Test](../../../src/test/java/Test.java)  |
+| [AbsDistinct](../../../src/main/java/com/iamandu/codechallenger/problems/codility/caterpillarmethod/AbsDistinct.java)  |  [AbsDistinctImpl](../../../src/main/java/com/iamandu/codechallenger/solutions/wescley/codility/caterpillarmethod/AbsDistinctImpl.java) | [AbsDistinctTest](../../../src/test/java/com/iamandu/codechallenger/solutions/wescley/codility/caterpillarmethod/AbsDistinctTest.java)  |

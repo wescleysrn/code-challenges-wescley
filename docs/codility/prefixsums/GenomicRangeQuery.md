@@ -48,4 +48,4 @@ Write an efficient algorithm for the following assumptions:
 
 |  Interface | Solution Class  | Test Class  |
 | :------------ | :------------ | :------------ |
-| [Int](../../../src/main/java/Int.java)  |  [Impl](../../../src/main/java/Impl.java) | [Test](../../../src/test/java/Test.java)  |
+| [GenomicRangeQuery](../../../src/main/java/com/iamandu/codechallenger/problems/codility/prefixsums/GenomicRangeQuery.java)  |  [GenomicRangeQueryImpl](../../../src/main/java/com/iamandu/codechallenger/solutions/wescley/codility/prefixsums/GenomicRangeQueryImpl.java) | [GenomicRangeQueryTest](../../../src/test/java/com/iamandu/codechallenger/solutions/wescley/codility/prefixsums/GenomicRangeQueryTest.java)  |

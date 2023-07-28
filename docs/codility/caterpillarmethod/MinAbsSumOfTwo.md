@@ -55,4 +55,4 @@ Write an efficient algorithm for the following assumptions:
 
 |  Interface | Solution Class  | Test Class  |
 | :------------ | :------------ | :------------ |
-| [Int](../../../src/main/java/Int.java)  |  [Impl](../../../src/main/java/Impl.java) | [Test](../../../src/test/java/Test.java)  |
+| [MinAbsSumOfTwo](../../../src/main/java/com/iamandu/codechallenger/problems/codility/caterpillarmethod/MinAbsSumOfTwo.java)  |  [MinAbsSumOfTwoImpl](../../../src/main/java/com/iamandu/codechallenger/solutions/wescley/codility/caterpillarmethod/MinAbsSumOfTwoImpl.java) | [MinAbsSumOfTwoTest](../../../src/test/java/com/iamandu/codechallenger/solutions/wescley/codility/caterpillarmethod/MinAbsSumOfTwoTest.java)  |

@@ -33,5 +33,5 @@ Write an efficient algorithm for the following assumptions:
 
 |  Interface | Solution Class  | Test Class  |
 | :------------ | :------------ | :------------ |
-| [Int](../../../src/main/java/Int.java)  |  [Impl](../../../src/main/java/Impl.java) | [Test](../../../src/test/java/Test.java)  |
+| [StoneWall](../../../src/main/java/com/iamandu/codechallenger/problems/codility/stacksandqueues/StoneWall.java)  |  [StoneWallImpl](../../../src/main/java/com/iamandu/codechallenger/solutions/wescley/codility/stacksandqueues/StoneWallImpl.java) | [StoneWallTest](../../../src/test/java/com/iamandu/codechallenger/solutions/wescley/codility/stacksandqueues/StoneWallTest.java)  |
 

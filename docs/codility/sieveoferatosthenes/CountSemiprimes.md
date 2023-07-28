@@ -49,4 +49,4 @@ Write an efficient algorithm for the following assumptions:
 
 |  Interface | Solution Class  | Test Class  |
 | :------------ | :------------ | :------------ |
-| [Int](../../../src/main/java/Int.java)  |  [Impl](../../../src/main/java/Impl.java) | [Test](../../../src/test/java/Test.java)  |
+| [CountSemiprimes](../../../src/main/java/com/iamandu/codechallenger/problems/codility/sieveoferatosthenes/CountSemiprimes.java)  |  [CountSemiprimesImpl](../../../src/main/java/com/iamandu/codechallenger/solutions/wescley/codility/sieveoferatosthenes/CountSemiprimesImpl.java) | [CountSemiprimesTest](../../../src/test/java/com/iamandu/codechallenger/solutions/wescley/codility/sieveoferatosthenes/CountSemiprimesTest.java)  |

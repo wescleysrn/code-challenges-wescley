@@ -57,4 +57,4 @@ Write an efficient algorithm for the following assumptions:
 
 |  Interface | Solution Class  | Test Class  |
 | :------------ | :------------ | :------------ |
-| [Int](../../../src/main/java/Int.java)  |  [Impl](../../../src/main/java/Impl.java) | [Test](../../../src/test/java/Test.java)  |
+| [PermCheck](../../../src/main/java/com/iamandu/codechallenger/problems/codility/countingelements/PermCheck.java)  |  [PermCheckImpl](../../../src/main/java/com/iamandu/codechallenger/solutions/wescley/codility/countingelements/PermCheckImpl.java) | [PermCheckTest](../../../src/test/java/com/iamandu/codechallenger/solutions/wescley/codility/countingelements/PermCheckTest.java)  |

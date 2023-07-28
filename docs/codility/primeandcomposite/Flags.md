@@ -71,4 +71,4 @@ Write an efficient algorithm for the following assumptions:
 
 |  Interface | Solution Class  | Test Class  |
 | :------------ | :------------ | :------------ |
-| [Int](../../../src/main/java/Int.java)  |  [Impl](../../../src/main/java/Impl.java) | [Test](../../../src/test/java/Test.java)  |
+| [Flags](../../../src/main/java/com/iamandu/codechallenger/problems/codility/primeandcomposite/Flags.java)  |  [FlagsImpl](../../../src/main/java/com/iamandu/codechallenger/solutions/wescley/codility/primeandcomposite/FlagsImpl.java) | [FlagsTest](../../../src/test/java/com/iamandu/codechallenger/solutions/wescley/codility/primeandcomposite/FlagsTest.java)  |

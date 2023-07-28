@@ -80,4 +80,4 @@ Write an efficient algorithm for the following assumptions:
 
 |  Interface | Solution Class  | Test Class  |
 | :------------ | :------------ | :------------ |
-| [Int](../../../src/main/java/Int.java)  |  [Impl](../../../src/main/java/Impl.java) | [Test](../../../src/test/java/Test.java)  |
+| [Peaks](../../../src/main/java/com/iamandu/codechallenger/problems/codility/primeandcomposite/Peaks.java)  |  [PeaksImpl](../../../src/main/java/com/iamandu/codechallenger/solutions/wescley/codility/primeandcomposite/PeaksImpl.java) | [PeaksTest](../../../src/test/java/com/iamandu/codechallenger/solutions/wescley/codility/primeandcomposite/PeaksTest.java)  |

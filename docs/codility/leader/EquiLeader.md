@@ -52,4 +52,4 @@ Write an efficient algorithm for the following assumptions:
 
 |  Interface | Solution Class  | Test Class  |
 | :------------ | :------------ | :------------ |
-| [Int](../../../src/main/java/Int.java)  |  [Impl](../../../src/main/java/Impl.java) | [Test](../../../src/test/java/Test.java)  |
+| [EquiLeader](../../../src/main/java/com/iamandu/codechallenger/problems/codility/leader/EquiLeader.java)  |  [EquiLeaderImpl](../../../src/main/java/com/iamandu/codechallenger/solutions/wescley/codility/leader/EquiLeaderImpl.java) | [EquiLeaderTest](../../../src/test/java/com/iamandu/codechallenger/solutions/wescley/codility/leader/EquiLeaderTest.java)  |

@@ -41,4 +41,4 @@ Write an efficient algorithm for the following assumptions:
 
 |  Interface | Solution Class  | Test Class  |
 | :------------ | :------------ | :------------ |
-| [Int](../../../src/main/java/Int.java)  |  [Impl](../../../src/main/java/Impl.java) | [Test](../../../src/test/java/Test.java)  |
+| [NumberOfDiscIntersections](../../../src/main/java/com/iamandu/codechallenger/problems/codility/sorting/NumberOfDiscIntersections.java)  |  [NumberOfDiscIntersectionsImpl](../../../src/main/java/com/iamandu/codechallenger/solutions/wescley/codility/sorting/NumberOfDiscIntersectionsImpl.java) | [NumberOfDiscIntersectionsTest](../../../src/test/java/com/iamandu/codechallenger/solutions/wescley/codility/sorting/NumberOfDiscIntersectionsTest.java)  |

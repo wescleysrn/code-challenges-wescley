@@ -37,4 +37,4 @@ Write an efficient algorithm for the following assumptions:
 
 |  Interface | Solution Class  | Test Class  |
 | :------------ | :------------ | :------------ |
-| [Int](../../../src/main/java/Int.java)  |  [Impl](../../../src/main/java/Impl.java) | [Test](../../../src/test/java/Test.java)  |
+| [Dominator](../../../src/main/java/com/iamandu/codechallenger/problems/codility/leader/Dominator.java)  |  [DominatorImpl](../../../src/main/java/com/iamandu/codechallenger/solutions/wescley/codility/leader/DominatorImpl.java) | [DominatorTest](../../../src/test/java/com/iamandu/codechallenger/solutions/wescley/codility/leader/DominatorTest.java)  |

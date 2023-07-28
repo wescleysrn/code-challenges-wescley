@@ -59,4 +59,4 @@ Write an efficient algorithm for the following assumptions:
 
 |  Interface | Solution Class  | Test Class  |
 | :------------ | :------------ | :------------ |
-| [Int](../../../src/main/java/Int.java)  |  [Impl](../../../src/main/java/Impl.java) | [Test](../../../src/test/java/Test.java)  |
+| [Ladder](../../../src/main/java/com/iamandu/codechallenger/problems/codility/fibonaccinumbers/Ladder.java)  |  [LadderImpl](../../../src/main/java/com/iamandu/codechallenger/solutions/wescley/codility/fibonaccinumbers/LadderImpl.java) | [LadderTest](../../../src/test/java/com/iamandu/codechallenger/solutions/wescley/codility/fibonaccinumbers/LadderTest.java)  |
