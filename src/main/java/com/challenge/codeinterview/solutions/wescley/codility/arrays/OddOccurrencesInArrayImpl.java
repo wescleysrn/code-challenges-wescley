@@ -12,7 +12,7 @@ import java.util.stream.Stream;
 import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Component;
 
-import com.challenge.codeinterview.problems.codility.arrays.OddOccurrencesInArray;
+import com.iamandu.codechallenger.problems.codility.arrays.OddOccurrencesInArray;
 
 @Component
 @Profile("wescley")

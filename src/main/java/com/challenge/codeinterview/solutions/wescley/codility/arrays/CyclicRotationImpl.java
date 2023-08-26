@@ -3,7 +3,7 @@ package com.challenge.codeinterview.solutions.wescley.codility.arrays;
 import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Component;
 
-import com.challenge.codeinterview.problems.codility.arrays.CyclicRotation;
+import com.iamandu.codechallenger.problems.codility.arrays.CyclicRotation;
 
 @Component
 @Profile("wescley")
